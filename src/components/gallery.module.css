@@ -1,0 +1,30 @@
+.galleryItemBlock {
+  height: auto;
+  margin: auto;
+}
+
+.galleryItemBlock h2 {
+  font-size: 3rem;
+}
+
+.galleryItemBlockImage {
+  border-radius: 10px;
+  box-shadow: 8px 2px 5px #0003;
+  object-fit: cover;
+}
+
+.galleryWrapper {
+  text-align: center;
+}
+
+@media (max-width: 991px) {
+  .galleryItemBlock h2 {
+    font-size: 2.25rem;
+    padding-top: 3rem;
+  }
+
+  .galleryWrapper h3 {
+    font-size: 1.25rem;
+    padding-top: 0 !important;
+  }
+}

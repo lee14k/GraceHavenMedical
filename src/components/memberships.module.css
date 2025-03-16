@@ -1,0 +1,53 @@
+.membershipContent {
+  display: flex;
+  justify-content: center;
+  color: #aa9c91;
+}
+
+.membershipPlans {
+  margin-top: 2rem;
+  color: #aa9c91;
+}
+
+.membershipBlock {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 2rem;
+  margin: 0.5rem;
+  height: 100%;
+}
+
+.planName {
+  font-weight: 700;
+}
+
+.planPrice {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.autoRenew {
+  font-size: 0.75rem;
+}
+
+.hr {
+  border-width: 2px;
+  opacity: 0.7;
+}
+
+.planList {
+  list-style-type: none;
+  text-align: left;
+  padding-left: 0;
+}
+
+.planList li:before {
+  content: '✓';
+  font-size: 1.5rem;
+}
+
+.planList p {
+  display: inline-flex;
+  margin-left: 10px;
+  width: calc(100% - 30px);
+}

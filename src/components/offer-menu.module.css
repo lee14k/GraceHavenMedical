@@ -1,0 +1,17 @@
+.offerHeader {
+  font-size: 0.875rem;
+  color: #6b6b6b;
+  font-weight: 700;
+}
+
+.menuLink {
+  margin-block: 1rem;
+}
+
+.menuTitle {
+  font-weight: 700;
+}
+
+.menuSubtitle {
+  color: #6b6b6b;
+}

@@ -1,0 +1,26 @@
+.videoOverlay {
+  background-color: rgba(0, 0, 0, 0.45);
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  z-index: -1;
+  position: absolute;
+}
+
+.videoWrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.video {
+  z-index: -2;
+  background-color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  inset: 0%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.MediaBlockContent {
+  z-index: 1;
+}

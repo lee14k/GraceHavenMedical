@@ -1,0 +1,32 @@
+{
+  "name": "grace-haven-medical",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev & next-video sync -w",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@formatjs/intl-localematcher": "^0.5.4",
+    "@types/negotiator": "^0.6.3",
+    "bootstrap": "^5.3.3",
+    "fs": "^0.0.1-security",
+    "negotiator": "^0.6.3",
+    "next": "14.2.5",
+    "next-video": "^1.1.4",
+    "react": "^18",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18",
+    "react-safe": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "typescript": "^5"
+  }
+}

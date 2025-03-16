@@ -1,0 +1,52 @@
+#mensHealthCarousel {
+  min-height: 600px;
+  margin-top: 20px;
+}
+
+#mensHealthCarousel .carousel-item {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#mensHealthCarousel .carousel-control-prev {
+  left: -20px;
+}
+
+#mensHealthCarousel .carousel-control-next {
+  right: -20px;
+}
+
+#mensHealthCarousel .btn {
+  text-transform: uppercase;
+}
+
+#weightLossCarousel {
+  min-height: 650px;
+  margin-top: 20px;
+}
+
+#therapyCarousel {
+  min-height: 570px;
+  margin-top: 20px;
+}
+
+#weightLossCarousel .carousel-item,
+#therapyCarousel .carousel-item {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#weightLossCarousel .carousel-control-prev,
+#therapyCarousel .carousel-control-prev {
+  left: -20px;
+}
+
+#weightLossCarousel .carousel-control-next,
+#therapyCarousel .carousel-control-next {
+  right: -20px;
+}
+
+#weightLossCarousel .btn,
+#therapyCarousel .btn {
+  text-transform: uppercase;
+}
