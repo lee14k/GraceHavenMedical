@@ -68,6 +68,8 @@
   .contactInfo>div:nth-child(2) {
     display: none !important;
   }
+
+
 }
 
 @media (max-width: 539px) {
@@ -88,5 +90,28 @@
  .topBar {
   min-height:120px;
  }
+ .navbarBrand  {
+  width: 200px;
+  height:auto;
+}
+  }
+}
+
+.navbarHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbarToggle {
+  margin-left: 1rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #000;
+}
+
+
+@media (min-width: 992px) {
+  .navbarToggle {
+    display: none;
   }
 }

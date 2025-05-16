@@ -39,15 +39,17 @@ export default function MainNav(dictionary: any) {
   return (
     <Navbar id="mainNav" expand="lg" fixed="top" className={styles.mainNavDefaultState}>
       <Container>
-        <NavbarBrand href="/">
-          <Image
-            height="54"
-            width="300"
-            alt="Grace Haven Medical"
-            src="dr85cqwlh/image/upload/v1723586969/ghm_logo_hpf4zs.svg"
-          />
-        </NavbarBrand>
-        <NavbarToggle aria-controls="basic-navbar-nav" />
+        <div className={styles.navbarHeader}>
+          <NavbarBrand href="/" className={styles.navbarBrand}>
+            <Image
+              height="54"
+              width="400"
+              alt="Grace Haven Medical"
+              src="dr85cqwlh/image/upload/v1723586969/ghm_logo_hpf4zs.svg"
+            />
+          </NavbarBrand>
+          <NavbarToggle aria-controls="basic-navbar-nav" className={styles.navbarToggle} />
+        </div>
         <NavbarCollapse id="basic-navbar-nav" className="ml-3">
           <Nav className="me-auto">
             <NavLink href={`/${lang}/memberships`}>{dictionary?.dictionary?.pageTitles?.memberships.toUpperCase()}</NavLink>
