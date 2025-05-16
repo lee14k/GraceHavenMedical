@@ -57,18 +57,18 @@ export default async function RootLayout({
       <body className={raleway.className} style={{ background: '#fff' }}>
         <Container fluid className={styles.topBar}>
           <Container className="d-block">
-            <Row>
-              <Col xs="8" md="9" className={styles.padding0xxs}>
-                <Row className="my-2 pt-1">
-                  <Col sm="12" className={styles.contactInfo}>
+            <Row className="align-items-center py-4">
+              <Col xs="12" md="9" className={`${styles.padding0xxs} mb-2 mb-md-0`}>
+                <Row>
+                  <Col xs="12" sm="auto" className={`${styles.contactInfo} text-center text-sm-start`}>
                     <div className="d-inline-block">(813) 435-9193</div>
-                    <div className="pe-2 ps-2 d-inline-block">|</div>
-                    <div className="d-inline-block">21760 State Road 54, Suite 102, Lutz, FL 33549</div>
+                    <div className="pe-2 ps-2 d-none d-sm-inline-block">|</div>
+                    <div className="d-block d-sm-inline-block mt-1 mt-sm-0">21760 State Road 54, Suite 102, Lutz, FL 33549</div>
                   </Col>
                 </Row>
               </Col>
-              <Col xs="4" md="3" className={styles.padding0xxs}>
-                <Row className="text-end d-block my-2">
+              <Col xs="12" md="3" className={`${styles.padding0xxs} text-center text-md-end`}>
+                <div className="d-inline-block">
                   <Link className={styles.socialLink} href="https://www.facebook.com/gracehavenmedical">
                     <Image src={fb} height={24} width={24} alt="Check out Grace Haven Medical on Facebook!" />
                   </Link>
@@ -78,7 +78,7 @@ export default async function RootLayout({
                   <Link className={styles.socialLink} href="https://www.linkedin.com/company/grace-haven-medical-cellular-detox-and-weight-loss">
                     <Image src={li} height={24} width={24} alt="Check out Grace Haven Medical on LinkedIn!" />
                   </Link>
-                </Row>
+                </div>
               </Col>
             </Row>
           </Container>
