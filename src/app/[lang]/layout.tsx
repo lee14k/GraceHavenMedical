@@ -63,7 +63,7 @@ export default async function RootLayout({
                   <Col xs="12" sm="auto" className={`${styles.contactInfo} text-center text-sm-start`}>
                     <div className="d-inline-block">(813) 435-9193</div>
                     <div className="pe-2 ps-2 d-none d-sm-inline-block">|</div>
-                    <div className="d-block d-sm-inline-block mt-1 mt-sm-0">21760 State Road 54, Suite 102, Lutz, FL 33549</div>
+                    <div className="d-block d-sm-inline-block mt-1 mt-sm-0">25200 Sawyer Francis Lane, Ste #113, Lutz, FL 33559</div>
                   </Col>
                 </Row>
               </Col>
@@ -95,7 +95,7 @@ export default async function RootLayout({
                 <div className={styles.contactSmall}>
                   <div>{dict.footer.phoneNumber}: <a href="tel:+18134359193">(813) 435-9193</a></div>
                   <div>SMS: <a href="tel:+18134359332">(813) 435-9332</a></div>
-                  <div>21760 State Road 54 #102, Lutz, FL 33549</div>
+                  <div>25200 Sawyer Francis Lane, Ste #113, Lutz, FL 33559</div>
                 </div>
                 <div className={styles.contactHours}>
                   <div>{dict.footer.monThursFri}</div>

@@ -43,7 +43,7 @@ export default function MainNav(dictionary: any) {
           <NavbarBrand href="/" className={styles.navbarBrand}>
             <Image
               height="54"
-              width="400"
+              width="300"
               alt="Grace Haven Medical"
               src="dr85cqwlh/image/upload/v1723586969/ghm_logo_hpf4zs.svg"
             />
