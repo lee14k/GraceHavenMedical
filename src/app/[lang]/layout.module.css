@@ -85,15 +85,19 @@
   .socialLink {
     margin: 0;
   }
-
-  @media (max-width < 700px) {
- .topBar {
-  min-height:120px;
- }
- .navbarBrand  {
-  width: 200px;
-  height:auto;
 }
+
+@media (max-width: 700px) {
+  .topBar {
+    min-height: 120px;
+  }
+  .navbarBrand {
+    max-width: 120px;
+    width: 100%;
+    height: auto;
+  }
+  .navbarHeader {
+    padding: 0.5rem 0;
   }
 }
 
@@ -101,6 +105,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
+}
+
+.navbarBrand {
+  padding: 0;
+  margin-right: 0;
 }
 
 .navbarToggle {
@@ -109,9 +119,30 @@
   border: 1px solid #000;
 }
 
-
 @media (min-width: 992px) {
   .navbarToggle {
     display: none;
+  }
+  
+  #basic-navbar-nav {
+    display: flex !important;
+    flex-basis: auto;
+  }
+  
+  #basic-navbar-nav .nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  #basic-navbar-nav .nav-link,
+  #basic-navbar-nav .dropdown-toggle {
+    padding: 0.5rem 1rem !important;
+    white-space: nowrap;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+  }
+  
+  #basic-navbar-nav .dropdown-menu {
+    margin-top: 0.5rem;
   }
 }

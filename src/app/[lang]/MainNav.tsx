@@ -51,19 +51,19 @@ export default function MainNav(dictionary: any) {
           <NavbarToggle aria-controls="basic-navbar-nav" className={styles.navbarToggle} />
         </div>
         <NavbarCollapse id="basic-navbar-nav" className="ml-3">
-          <Nav className="me-auto">
-            <NavLink href={`/${lang}/memberships`}>{dictionary?.dictionary?.pageTitles?.memberships.toUpperCase()}</NavLink>
+          <Nav className="me-auto d-flex align-items-center gap-4">
+            <NavLink href={`/${lang}/memberships`} className="px-3">{dictionary?.dictionary?.pageTitles?.memberships.toUpperCase()}</NavLink>
             <OfferMenu dictionary={dictionary.dictionary} />
-            <NavLink href={`/${lang}/about-us`}>{dictionary?.dictionary?.pageTitles?.aboutUs.toUpperCase()}</NavLink>
-            <NavDropdown title={dictionary?.dictionary?.pageTitles.shop.toUpperCase()} id="shop-nav-dropdown">
+            <NavLink href={`/${lang}/about-us`} className="px-3">{dictionary?.dictionary?.pageTitles?.aboutUs.toUpperCase()}</NavLink>
+            <NavDropdown title={dictionary?.dictionary?.pageTitles.shop.toUpperCase()} id="shop-nav-dropdown" className="px-3">
               <DropdownItem href={'https://www.vagaro.com/cl/gRaR6piiSY-bXIAXxPfDlim6IhST9IWXQJ--2XSWQhs='}>{dictionary?.dictionary?.pageTitles?.glucoferrin.toUpperCase()}</DropdownItem>
               <DropdownItem href={`/${lang}/crunchi-skincare`}>{dictionary?.dictionary?.pageTitles?.crunchi.toUpperCase()}</DropdownItem>
               <DropdownItem href={`/${lang}/patchaid-vitamins`}>{dictionary?.dictionary?.pageTitles?.patchAid.toUpperCase()}</DropdownItem>
             </NavDropdown>
-            <NavLink href={`/${lang}/contact-us`}>{dictionary?.dictionary?.pageTitles?.contact.toUpperCase()}</NavLink>
+            <NavLink href={`/${lang}/contact-us`} className="px-3">{dictionary?.dictionary?.pageTitles?.contact.toUpperCase()}</NavLink>
           </Nav>
           <Nav className="ml-auto">
-            <NavDropdown title={dictionary?.dictionary?.locales?.language.toUpperCase()} id="language-nav-dropdown">
+            <NavDropdown title={dictionary?.dictionary?.locales?.language.toUpperCase()} id="language-nav-dropdown" className="px-3">
               <DropdownItem href={`/en/${pathname.split('/')[2] || ''}`}>{dictionary?.dictionary?.locales?.english.toUpperCase()}</DropdownItem>
               <DropdownItem href={`/es/${pathname.split('/')[2] || ''}`}>{dictionary?.dictionary?.locales?.spanish.toUpperCase()}</DropdownItem>
             </NavDropdown>
