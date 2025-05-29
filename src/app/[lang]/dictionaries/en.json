@@ -158,19 +158,19 @@
     },
     "membershipPlans": {
       "title": "Membership Plans",
-      "bodyText": "Our weight loss program offers a comprehensive range of options tailored to meet your unique needs, including a selection of both generic and brand-name medications such as Semaglutide, Tirzepatide, Rybelsus, and Bella treatments. To further personalize your journey, our Platinum membership enhances your regimen by integrating medication with IV Therapy and Full Spectrum Therapy, aiming for optimal results. For individuals seeking specific solutions, we also provide access to Ozempic, Wegovy, and Mounjaro.",
+      "bodyText": "Our weight loss program offers a comprehensive range of options tailored to meet your unique needs, including a selection of both generic and brand-name medications such as Semaglutide, Tirzepatide, Rybelsus, and Bella treatments. To further personalize your journey, our Platinum membership enhances your regimen by integrating medication with IV Therapy and Full Spectrum Therapy, aiming for optimal results. For individuals seeking specific solutions, we also provide access to weight loss medications.",
       "plans": [
         {
-          "planName": "Semaglutide Standard - Get Started & Maintenance Mode",
+          "planName": "Standard Plan - Get Started & Maintenance Mode",
           "planText": "Average weight loss is 1 lbs. per week consistently.",
           "planPrice": "$299 / mo",
           "listItems": [
-            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
+            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
             "Unlimited 30- minute FAR Infrared + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
             "Custom Meal Plan & Grocery Shopping Lists",
             "Custom Workout & Fitness Plan",
-            "Weekly Consultation and Coaching for Semaglutide Weight Loss",
+            "Weekly Consultation and Coaching for Weight Loss",
             "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
           ],
           "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
@@ -178,17 +178,17 @@
           "bookingLink": "https://www.vagaro.com/cl/a77LgGXuvs~Ru4TXPAk3rLA3l8wTksnwlca1pklrEPA="
         },
         {
-          "planName": "Semaglutide Premium - Muscle Preservation",
+          "planName": "Premium Plan - Muscle Preservation",
           "planText": "Average weight loss is 1 lbs. per week consistently focusing on losing more fat than lean muscle or water weight.",
           "planPrice": "$399 / mo",
           "listItems": [
-            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
+            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
             "Premium Compound with B12 & Glycine for Energy & Muscle Preservation",
             "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
             "Custom Meal Plan & Grocery Shopping Lists",
             "Custom Workout & Fitness Plan",
-            "Weekly Consultation and Coaching for Semaglutide Weight Loss",
+            "Weekly Consultation and Coaching for Weight Loss",
             "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
           ],
           "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
@@ -196,17 +196,17 @@
           "bookingLink": "https://www.vagaro.com/cl/codNOOCCRqac6tnZ983TgbW1Uy4Q5z93mUDEXnQUFJk="
         },
         {
-          "planName": "Semaglutide Stacked with Phentermine - Appetite Control",
+          "planName": "Stacked Plan - Appetite Control",
           "planText": "Average weight loss is 1.5 lbs. per week consistently focusing on energy & appetite control.",
           "planPrice": "$399 / mo",
           "listItems": [
-            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
+            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
             "Additional appetite suppression with ½ tab of Phentermine Prescription As Prescribed",
             "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
             "Custom Meal Plan & Grocery Shopping Lists",
             "Custom Workout & Fitness Plan",
-            "Weekly Consultation and Coaching for Semaglutide Weight Loss",
+            "Weekly Consultation and Coaching for Weight Loss",
             "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
           ],
           "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
@@ -214,16 +214,16 @@
           "bookingLink": "https://www.vagaro.com/cl/4ZdcjMQsG99WxMQD6cSv2g1-x3Ir9CY~YZtsd8TIITM="
         },
         {
-          "planName": "Tirzepatide Standard - Double Time",
+          "planName": "Standard Plan - Double Time",
           "planText": "Average expected weight loss is 2 lbs./ weeks with 10x stronger medication than semaglutide for results in half the time.",
           "planPrice": "$599 / mo",
           "listItems": [
-            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
+            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
             "Unlimited 30- minute FAR Infrared + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
             "Custom Meal Plan & Grocery Shopping Lists",
             "Custom Workout & Fitness Plan",
-            "Weekly Consultation and Coaching for Semaglutide Weight Loss",
+            "Weekly Consultation and Coaching for Weight Loss",
             "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
           ],
           "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
@@ -231,17 +231,17 @@
           "bookingLink": "https://www.vagaro.com/cl/gbh5SMojSehBj6vpvUl8C2eSI1IBWvV6gIFJSORDdbo="
         },
         {
-          "planName": "Tirzepatide Premium - Double Time & Muscle Preservation",
+          "planName": "Premium Plan - Double Time & Muscle Preservation",
           "planText": "Average expected weight loss is 2 lbs./ weeks with 10x stronger medication than semaglutide for results in half the time, focusing on losing more fat than lean muscle or water weight.",
           "planPrice": "$699 / mo",
           "listItems": [
-            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
+            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
             "Premium Compound with B12 & Glycine for Energy & Muscle Preservation",
             "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
             "Custom Meal Plan & Grocery Shopping Lists",
             "Custom Workout & Fitness Plan",
-            "Weekly Consultation and Coaching for Semaglutide Weight Loss",
+            "Weekly Consultation and Coaching for Weight Loss",
             "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
           ],
           "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
@@ -249,13 +249,17 @@
           "bookingLink": "https://www.vagaro.com/cl/-c0uG8gCOVVzBBMasHrFMOtMooHrErYHxbj3OYQtttw="
         },
         {
-          "planName": "Phentermine Plan",
-          "planText": "Phentermine is a prescribed medication designed to suppress appetite, aiding in weight loss by either reducing hunger pangs or prolonging feelings of fullness.",
+          "planName": "Stacked Plan - Appetite Control",
+          "planText": "Average weight loss is 1.5 lbs. per week consistently focusing on energy & appetite control.",
           "planPrice": "$99 / mo",
           "listItems": [
-            "Appetite Suppression: Phentermine aids in managing hunger and diminishing appetite, facilitating adherence to a low-calorie diet.",
-            "Enhanced Energy Levels: Phentermine has the potential to elevate your energy, thereby enhancing motivation and commitment to a workout regimen.",
-            "Effectiveness in Weight Loss: Clinical research has demonstrated that phentermine can significantly aid in weight loss, with users losing an average of 3% of their initial body weight within the first three months, and between 5-7% after six months."
+            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
+            "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
+            "Weekly Fit3D Personalized Body Composition Data",
+            "Custom Meal Plan & Grocery Shopping Lists",
+            "Custom Workout & Fitness Plan",
+            "Weekly Consultation and Coaching for Weight Loss",
+            "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
           ],
           "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
           "getStarted": "Get Started - I'm Ready!",
@@ -290,34 +294,34 @@
       "text": "Discover a world of exclusive benefits and reach your health goals by choosing from our diverse range of membership options. Whether you're looking for personalized training or access to premium facilities, our memberships are designed to cater to your unique needs and aspirations."
     },
     "plans": {
-      "semaglutide": {
-        "title": "The Semaglutide Plan",
-        "text": "<p>Embark on a transformative journey toward a healthier you, ridding your body of unwanted toxins and fat. Our holistic program is tailored for your triumph, ensuring an optimized journey that reduces barriers and avoids stagnation.</p><p><strong>Benefits:</strong><ul><li>Free monthly consultations and coaching available for weight loss with Semaglutide.</li><li>Indulge in a 15-minute session once a week in a FAR Infrared + Chromotherapy Sitting Sauna for a rejuvenating experience.</li><li>Get tailored body composition insights four times monthly.</li><li>Receive four B12 add-ons monthly with every injection, and relish a 10% discount on spa services, products, and the Glucoferrin Supplement.</li></ul></p>",
+      "standard": {
+        "title": "The Standard Plan",
+        "text": "<p>Embark on a transformative journey toward a healthier you, ridding your body of unwanted toxins and fat. Our holistic program is tailored for your triumph, ensuring an optimized journey that reduces barriers and avoids stagnation.</p><p><strong>Benefits:</strong><ul><li>Free monthly consultations and coaching available for weight loss with Semaglutide.</li><li>Indulge in a 15-minute session once a week in a FAR Infrared + Chromotherapy Sitting Sauna for a rejuvenating experience.</li><li>Get tailored body composition insights four times monthly.</li><li>Receive four B12 add-ons monthly with every treatment, and relish a 10% discount on spa services, products, and the Glucoferrin Supplement.</li></ul></p>",
         "button": "$299 Monthly"
       },
-      "tirzepatide": {
-        "title": "Discover the Benefits of the Tirzepatide Plan",
+      "premium": {
+        "title": "The Premium Plan",
         "text": "<p>The Tirzepatide Plan offers a holistic approach to weight loss, tailored to help you reach your objectives. It combines customized meal plans, targeted exercise routines, and continuous support, guiding you toward a healthier way of living.</p><p><strong>Benefits:</strong><ul><li>Tailored meal plans and exercise routines to fit your unique needs and preferences.</li><li>Complimentary monthly consultation and coaching available for Trizepatide weight loss program.</li><li>Indulge in a 15-minute session four times a month in a FAR Infrared + Chromotherapy Sitting Sauna experience.</li><li>Get customized body composition updates four times per month.</li><li>Get tailored body composition updates delivered to you four times monthly.</li></ul></p>",
         "button": "$499 Monthly"
       },
       "bella": {
         "title": "Custom Bella Weight Loss Plan: Tailored for You",
-        "text": "<p>Our Custom Bella Weight Loss Plan is designed to meet your individual needs and help you achieve your weight loss goals. With a personalized approach, we provide you with the tools, support, and guidance you need to succeed.</p><p><ul><li>Contains: Bupropion, Phentermine, Topiramate, Naltrexone, and Slow Release Methylcobalamin Capsules</li><li>Bella Plus Contains: Bupropion, Caffeine, Metformin, Oxytocin, Topiramate, Naltreone, Methylcobalmin Capsules</li><li>Bella Plus Defact includes the following active ingredients: Bupropion, Metformin, Oxytocin, Topiramate, Naltrexone, and Methylcobalamin in capsule form.</li><li>Lip Burn Capsules feature an optimized blend of active ingredients, including Caffeine, Phentermine, Naltrexone, and Methylcobalamin, in a slow-release formulation.</li></ul></p>",
+        "text": "<p>Our Custom Bella Weight Loss Plan is designed to meet your individual needs and help you achieve your weight loss goals. With a personalized approach, we provide you with the tools, support, and guidance you need to succeed.",
         "button": "$349 Monthly"
       },
-      "phentermine": {
-        "title": "Exploring the Phentermine Plan for Weight Management",
-        "text": "<p>Discover the benefits of our Phentermine Plan, a comprehensive weight management program designed to help you achieve your goals. This plan includes personalized guidance, nutritional support, and ongoing monitoring to ensure your success.</p><p><ul><li>Appetite Control: Phentermine helps manage hunger and reduce appetite, making it easier to stick to a low-calorie diet.</li><li>Increased Energy Levels: Phentermine can boost your energy, enhancing motivation and dedication to your workout routine.</li><li>Weight Loss Effectiveness: Clinical studies have shown that phentermine can greatly assist in weight reduction. Users typically shed around 3% of their initial body weight in the initial three months, and achieve a 5-7% loss by the six-month mark.</li></ul></p>",
+      "stacked": {
+        "title": "The Stacked Plan",
+        "text": "<p>Discover the benefits of our stacked plan, a comprehensive weight management program designed to help you achieve your goals. This plan includes personalized guidance, nutritional support, and ongoing monitoring to ensure your success",
         "button": "$99 Monthly"
       },
-      "rybelsus": {
-        "title": "Discover the Benefits of the Rybelsus Plan for Effective Weight Loss",
-        "text": "<p>The Rybelsus Plan is a comprehensive weight loss program designed to help you achieve your goals. With personalized guidance and support, you'll experience sustainable results.</p><p><ul><li>Blood Sugar Management: Rybelsus effectively regulates blood sugar levels in adults suffering from type 2 diabetes by enhancing insulin secretion and reducing glucagon release.</li><li>Weight Loss Potential: Rybelsus has demonstrated effectiveness in promoting weight loss in type 2 diabetes patients, primarily through reducing appetite and decelerating gastric emptying.</li><li>Cardiovascular Advantages: Clinical studies have demonstrated that Rybelsus significantly contributes to heart health protection for individuals with type 2 diabetes. This is particularly crucial, considering their increased risk of developing heart disease.</li><li>Easy Oral Intake: Rybelsus stands out as the sole GLP-1 receptor agonist available as a once-daily oral tablet, eliminating the need for injections.</li></ul></p>",
+      "doubleTime": {
+        "title": "The Double Time Plan",
+        "text": "<p>The double time Plan is a comprehensive weight loss program designed to help you achieve your goals. With personalized guidance and support, you'll experience sustainable results.",
         "button": "$2999 Monthly"
       },
       "vip": {
-        "title": "Unlock VIP Benefits with Semaglutide Membership",
-        "text": "<p>Experience the ultimate weight loss journey with our VIP Monthly Membership that includes Semaglutide, a powerful weight loss medication. Enjoy exclusive perks, personalized support, and achieve your weight loss goals faster.</p><p><ul><li>Receive a weekly weight loss session (total of 4 sessions monthly) including a complimentary consultation and coaching.</li><li>Semaglutide Basic Monthly Membership: Receive 1 pre-filled injection per week (total of 4 per month) for your prescribed dose, ranging from 0.25mg to 2.5mg. Enjoy a flat monthly fee without any additional charges as your dosage increases.</li><li>1 Session Per Week (Total of 4 Sessions) - Hydration & Weight Loss Flush IV Therapy</li><li>Twice weekly, engage in a comprehensive wellness session that includes an 8-session package of Full Spectrum Infrared Bed therapy, complemented by Chromotherapy and Magnet Therapy, each lasting 25 minutes.</li><li>1 Ionic Foot Detox Session per Month (50 Minutes) for One Person</li><li>myGrace Customized Fitness Plan and Tracker App, plus a complimentary bottle of Glucoferrin, along with 10% off Glucoferrin Supplement and 10% discount on spa services.</li><li>Each injection includes a quantity of 4 personalized 3DFit Body Composition Data and 4 B12 Add-Ons, plus an additional 4 Glycine Muscle Preservation Add-Ons for enhanced benefits.</li></ul></p>",
+        "title": "Unlock VIP Benefits with a personalized Membership",
+        "text": "<p>Experience the ultimate weight loss journey with our VIP Monthly Membership that includes personalized treatments, a powerful weight loss medication. Enjoy exclusive perks, personalized support, and achieve your weight loss goals faster.",
         "button": "$945+ Monthly"
       }
     }
@@ -326,11 +330,6 @@
     "hero": {
       "title": "Prescription and Non-Prescription Weight Management",
       "text": "We use a unique approach that merges personalized data with healing and therapeutic services, designed to assist your body in eliminating the need for excess fat through a cellular detox process. This method not only helps in shedding unwanted fat but also ensures that your body becomes less inclined to accumulate it again in the future. By focusing on the root cause of fat accumulation, our program aims to provide a long-term solution to weight management, ensuring a healthier and more balanced body."
-    },
-    "glp1": {
-      "title": "Injectable Weight Loss Solutions Featuring GLP-1 and Ozempic for Prescription-Based Weight Management",
-      "text": "<p>Our weight loss programs offer personalized strategies, incorporating the latest methodologies and professional advice to ensure you reach your goals. We provide both natural solutions and advanced prescription medication options, including Semaglutide and Tirzepatide, tailored to your preferences.</p><p>We cater to your needs, wherever you are—be it your office, your home, or through virtual telehealth and mail delivery services.</p>",
-      "button": "Telehealth Physician Visit"
     },
     "newWave": {
       "subtitle": "Natural Weight Loss Alternative",
@@ -378,56 +377,7 @@
         }
       ]
     },
-    "faq": {
-      "header": "FAQs",
-      "description": "Find answers to commonly asked questions about our Weight Loss Programs.",
-      "questions": [
-        {
-          "header": "What are the programs?",
-          "body": "Our weight loss programs include personalized plans tailored to your specific needs. We offer both prescription weight loss programs and natural weight loss programs, depending on your preferences and goals. Our team of experts will work closely with you to develop a program that suits your lifestyle and helps you achieve your desired results."
-        },
-        {
-          "header": "Is phentermine effective in promoting weight loss?",
-          "body": "Indeed, Phentermine has received FDA approval as a weight loss aid, indicating it has undergone rigorous clinical trials to prove its safety and efficacy for weight reduction. Its effectiveness is significantly enhanced when paired with consistent exercise and a reduced-calorie diet."
-        },
-        {
-          "header": "What is Semaglutide?",
-          "body": "Semaglutide is a modified molecule our bodies make, called a GLP-1 analog. It works by increasing insulin production and lowers glucagon secretion as well as targets areas in the brain that regulate appetite and food intake. A small change in the molecule allows the drug to last weeks in our bodies rather than the natural version our bodies make, which lasts minutes."
-        },
-        {
-          "header": "How does Semaglutide Work?",
-          "body": "Semaglutide acts in the following ways:<ul><li>Delays how quickly our stomachs digest food. Leading to a feeling of fullness and satisfaction with smaller meal sizes.</li><li>Slows intestinal motility so you will feel fuller longer after meals.</li><li>Lowers blood sugars, in part by reducing the production of sugar in the liver.</li><li>Stimulates insulin secretion by the pancreas.</li></ul>"
-        },
-        {
-          "header": "What is the recommended dosage for Semaglutide?",
-          "body": "Coming soon..."
-        },
-        {
-          "header": "What are the potential adverse effects associated with Semaglutide?",
-          "body": "<p>Common side effects reported include nausea and constipation, along with acid reflux, stomach pain, vomiting, and diarrhea. Patients with conditions like hypoglycemia, kidney issues, or a propensity for allergic reactions face a heightened risk of severe side effects. To mitigate nausea, 1mg/mL of Cyanocobalamin is included in the formula.</p><p>It's crucial to note that this medication is not a substitute for insulin and is not recommended for individuals with type 1 diabetes or those experiencing diabetic ketoacidosis. Additionally, Semaglutide should not be combined with other GLP-1 receptor agonists.</p><p>There is an associated RISK OF THYROID C-CELL TUMORS. Individuals diagnosed with Multiple Endocrine Neoplasia Syndrome Type 2 or Medullary Thyroid Cancer are advised against taking Semaglutide. Those with a history of pancreatitis should consult their healthcare provider before use, as Semaglutide may increase the risk of developing pancreatitis.</p>"
-        },
-        {
-          "header": "What is Tirzepatide?",
-          "body": "Tirzepatide is once-weekly injectable dual glucagon-like peptide 1 (GLP-1) receptor and glucose-dependent insulinotropic polypeptide (GIP) receptor agonist. It works by increasing insulin production and lowers glucagon secretion as well as targets areas in the brain that regulate appetite and food intake. A small change in the molecule allows the drug to last weeks in our bodies rather than the natural version our bodies make, which lasts minutes."
-        },
-        {
-          "header": "How does Tirzepatide Work?",
-          "body": "Tirzepatide works through several mechanisms:<ul><li>It slows down the digestion process in the stomach, leading to a sensation of fullness and satisfaction from smaller portions of food.</li><li>It decreases the speed of intestinal motility, extending the feeling of satiety well after meals.</li><li>Its dual-action receptor effectively lowers blood sugar levels, partly by minimizing sugar production in the liver.</li><li>It enhances insulin secretion from the pancreas.</li><li>GIP boosts energy expenditure, contributing to significant weight loss.</li></ul>"
-        },
-        {
-          "header": "What is the recommended dosage for Tirzepatide?",
-          "body": "<p>Strive Tirzepatide/B12 Formula: Dosage: 10mg/500mcg per ml in a 2 ml vial (Totaling 20 mg Tirzepatide per vial)</p><p>Prescription #1: Combination of Tirzepatide/Glycine/B12 at 10mg/5mg/500mcg per ml. Instructions: Administer 25 units subcutaneously once a week for four weeks, then increase the dose to 50 units weekly for an additional two weeks (Requires 1 x 2ml vial).</p><p>Prescription #2: Same concentration as RX #1. Administer 50 units subcutaneously each week for two weeks, followed by an increase to 75 units weekly for four weeks (Requires 2 x 2ml vials).</p><p>Prescription #3: Identical concentration to RX #1 and RX #2. Administer 100 units subcutaneously every week for four weeks (Necessitates 2 x 2ml vials).</p><p>Prescription #4: Same concentration. Start with 125 units administered subcutaneously weekly for four weeks, then increase the dosage to 150 units weekly ongoing (Requires 3 x 2ml vials).</p><p>Prescription #5: Maintains the same concentration. Administer 150 units subcutaneously every week for four weeks (Demands 3 x 2ml vials).</p>"
-        },
-        {
-          "header": "What are the potential adverse reactions associated with Trizepatide?",
-          "body": "<p>Common side effects include nausea and constipation, along with reports of acid reflux, stomach pain, vomiting, and diarrhea. There's an increased risk of severe side effects for those with hypoglycemia, kidney issues, or a tendency for allergic reactions. To mitigate nausea, 500mcg/mL of Cyanocobalamin is added.</p><p>This medication is not a substitute for insulin and is not recommended for individuals with type 1 diabetes or those experiencing diabetic ketoacidosis. It should not be combined with other GLP-1 medications due to potential risks.</p><p>Importantly, there is a RISK OF THYROID C-CELL TUMORS. Tirzepatide is contraindicated for individuals with a history of Multiple Endocrine Neoplasia Syndrome Type 2 or Medullary thyroid cancer in themselves or their family. If you have a history of pancreatitis, consult your healthcare provider before use, as Tirzepatide may increase pancreatitis risk.</p>"
-        },
-        {
-          "header": "How much weight will you lose while taking phentermine?",
-          "body": "<p>The amount of weight loss you experience with phentermine significantly hinges on two key factors: the amount of excess weight you carry and your ability to modify your eating and exercise patterns during its use.<br><br>Phentermine activates the sympathetic nervous system, known as a \"sympathomimetic\" or stimulant medication, enhancing bodily functions. By reducing appetite, it aids in calorie intake reduction, creating an energy deficit for weight loss.</p>"
-        }
-      ]
-    }
+
   },
   "ivTherapy": {
     "hero": {
