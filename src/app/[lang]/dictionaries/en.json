@@ -376,8 +376,6 @@
           "imageURI": "dr85cqwlh/image/upload/v1725812984/weight-loss-gallery-4_uciehv.png"
         }
       ]
-    },
-
   },
   "ivTherapy": {
     "hero": {
@@ -1497,4 +1495,5 @@
     "submit": "Submit",
     "call": "Call"
   }
+}
 }
