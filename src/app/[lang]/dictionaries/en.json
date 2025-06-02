@@ -79,7 +79,7 @@
     "online": "Online Hours (Mon - Sat): 9 AM EST to 9 PM EST",
     "inHome": "Mobile In-Home Appointments (Mon - Sat): 9 AM EST to 9 PM EST",
     "disclaimer1": "The FDA's jurisdiction is limited to food and drugs, not including supplements, which are not designed to diagnose, prevent, treat, or cure any diseases.",
-    "disclaimer2": "Results can vary. In a 68-week clinical trial of non-diabetic patients taking Semaglutide who achieved and maintained a dose of 2.4 mg/week of GLP-1 treatment, the average weight loss was 15% of body weight. Similarly, in a 72-week study of adults without diabetes taking Tirzepatide, the average weight loss was 15% (34 pounds) for 5 mg, 19.5% (44 pounds) for 10 mg, 20.9% (48 pounds) for 15 mg, compared to 3.1% (7 pounds) for the placebo group.",
+    "disclaimer2": "Results can vary. In a 68-week clinical trial of non-diabetic patients taking GLP-S treatment who achieved and maintained a dose of 2.4 mg/week of GLP-1 treatment, the average weight loss was 15% of body weight. Similarly, in a 72-week study of adults without diabetes taking premium medications, the average weight loss was 15% (34 pounds) for 5 mg, 19.5% (44 pounds) for 10 mg, 20.9% (48 pounds) for 15 mg, compared to 3.1% (7 pounds) for the placebo group.",
     "returns": "Please note, our policy does not permit returns.",
     "privacy": "Privacy Policy and HIPAA Notice",
     "hipaa": "<h5>HIPAA Privacy Statement</h5><p><strong>Your Privacy Matters:</strong> At Grace Haven Medical Cellular Detox & Weight Loss, LLC, we prioritize the protection of your health information and are dedicated to maintaining your privacy in full compliance with the Health Insurance Portability and Accountability Act (HIPAA). This notice outlines how we handle your Protected Health Information (PHI), your rights regarding this data, and our legal obligations.</p><p><strong>Receiving PHI:</strong> Please note that communications from our website, including emails or electronic transmissions, may contain PHI. PHI refers to any health information that can identify you and is related to your medical condition, treatment, or payment for healthcare services.</p><p><strong>Prohibited Activities:</strong> If you are not the intended recipient of an email or communication containing PHI, any unauthorized reviewing, copying, disseminating, printing, or distributing of this information is strictly prohibited.</p><p><strong>Accidental Disclosure:</strong> If you believe you have received an email or communication containing PHI in error, please notify us immediately by replying to the email or contacting us at<a href='mailto:Privacy@GraceHavenMedical.com'>Privacy@GraceHavenMedical.com</a>. Please promptly delete the email or message without sharing it with others.</p><p><strong>How We May Use and Disclose Your Health Information:</strong> Grace Haven Medical Cellular Detox & Weight Loss, LLC may use and disclose your PHI for specific purposes, including:</p><ul><li>Treatment coordination, such as facilitating care with other healthcare providers if you require hospitalization.</li><li>To protect your safety and the safety of others if we believe you are a potential threat to yourself or others.</li></ul><p><strong>Your Rights Regarding Your Health Information:</strong> As a client of Grace Haven Medical Cellular Detox & Weight Loss, LLC, you have the right to:</p><ul><li>Inspect, copy, or request corrections to your PHI.</li><li>Request restrictions on certain uses or disclosures of your PHI.</li><li>Request an accounting of disclosures we have made of your PHI</li><li>Lodge a complaint if you feel your privacy rights have been violated. You may contact us directly or file a complaint with the U.S. Department of Health and Human Services. Grace Haven will not retaliate against you for filing a complaint.</li></ul><p><strong>Our Legal Duties Regarding Your Health Information:</strong> As required by law, Grace Haven Medical Cellular Detox & Weight Loss, LLC is committed to:</p><ul><li>Maintaining the privacy of your PHI.</li><li>Adhering to the HIPAA Privacy Rule for the use and disclosure of PHI.</li><li>Implementing security measures in compliance with the HIPAA Security Rule to protect your electronic PHI (ePHI).</li><li>Complying with the HIPAA Breach Notification Rule, which mandates that we inform you in the event of a breach involving your PHI.</li></ul><p><strong>Privacy and Security Oversight:</strong> Our designated Privacy Officer, Tracy Crain, and Security Officer, Dr. Sean Arora, are responsible for ensuring our compliance with HIPAA regulations and the protection of your health information. You can reach them at<a href='mailto:Privacy@GraceHavenMedical.com'>Privacy@GraceHavenMedical.com</a></p><p><strong>Training and Awareness:</strong> Our staff undergoes regular HIPAA training to stay informed about privacy, security, and breach notification requirements. We are committed to upholding a culture of compliance and respect for your privacy rights.</p><p><strong>Reporting Violations or Breaches:</strong> If you believe your privacy has been compromised or have concerns about the security of your health information, please contact us at<a href='mailto:Privacy@GraceHavenMedical.com'>Privacy@GraceHavenMedical.com</a>. We will promptly investigate and, if necessary, take corrective action.</p><p><strong>Further Information:</strong> For more information about our privacy practices or to address specific questions, please contact us at .<a href='mailto:Privacy@GraceHavenMedical.com'>Privacy@GraceHavenMedical.com</a>. We are committed to ensuring the confidentiality of your health information and addressing any concerns you may have.</p>"
@@ -158,14 +158,14 @@
     },
     "membershipPlans": {
       "title": "Membership Plans",
-      "bodyText": "Our weight loss program offers a comprehensive range of options tailored to meet your unique needs, including a selection of both generic and brand-name medications such as Semaglutide, Tirzepatide, Rybelsus, and Bella treatments. To further personalize your journey, our Platinum membership enhances your regimen by integrating medication with IV Therapy and Full Spectrum Therapy, aiming for optimal results. For individuals seeking specific solutions, we also provide access to weight loss medications.",
+      "bodyText": "Our weight loss program offers a comprehensive range of options tailored to meet your unique needs, including a selection of both generic and brand-name medications. To further personalize your journey, our Platinum membership enhances your regimen by integrating medication with IV Therapy and Full Spectrum Therapy, aiming for optimal results.",
       "plans": [
         {
-          "planName": "Standard Plan - Get Started & Maintenance Mode",
+          "planName": "GLP-S Standard - Get Started & Maintenance Mode",
           "planText": "Average weight loss is 1 lbs. per week consistently.",
           "planPrice": "$299 / mo",
           "listItems": [
-            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
+            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
             "Unlimited 30- minute FAR Infrared + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
             "Custom Meal Plan & Grocery Shopping Lists",
@@ -178,11 +178,11 @@
           "bookingLink": "https://www.vagaro.com/cl/a77LgGXuvs~Ru4TXPAk3rLA3l8wTksnwlca1pklrEPA="
         },
         {
-          "planName": "Premium Plan - Muscle Preservation",
+          "planName": "GLP-S - Muscle Preservation",
           "planText": "Average weight loss is 1 lbs. per week consistently focusing on losing more fat than lean muscle or water weight.",
-          "planPrice": "$399 / mo",
+          "planPrice": "$299 / mo",
           "listItems": [
-            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
+            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
             "Premium Compound with B12 & Glycine for Energy & Muscle Preservation",
             "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
@@ -196,11 +196,11 @@
           "bookingLink": "https://www.vagaro.com/cl/codNOOCCRqac6tnZ983TgbW1Uy4Q5z93mUDEXnQUFJk="
         },
         {
-          "planName": "Stacked Plan - Appetite Control",
+          "planName": "GLP-S Stacked with Phentermine - Appetite Control",
           "planText": "Average weight loss is 1.5 lbs. per week consistently focusing on energy & appetite control.",
           "planPrice": "$399 / mo",
           "listItems": [
-            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
+            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
             "Additional appetite suppression with ½ tab of Phentermine Prescription As Prescribed",
             "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
@@ -214,11 +214,11 @@
           "bookingLink": "https://www.vagaro.com/cl/4ZdcjMQsG99WxMQD6cSv2g1-x3Ir9CY~YZtsd8TIITM="
         },
         {
-          "planName": "Standard Plan - Double Time",
-          "planText": "Average expected weight loss is 2 lbs./ weeks with 10x stronger medication than semaglutide for results in half the time.",
-          "planPrice": "$599 / mo",
+          "planName": "Premium Plan - Double Time",
+          "planText": "Average expected weight loss is 2 lbs./ weeks with 10x stronger medication than GLP-S for results in half the time.",
+          "planPrice": "$399 / mo",
           "listItems": [
-            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
+            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
             "Unlimited 30- minute FAR Infrared + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
             "Custom Meal Plan & Grocery Shopping Lists",
@@ -232,10 +232,10 @@
         },
         {
           "planName": "Premium Plan - Double Time & Muscle Preservation",
-          "planText": "Average expected weight loss is 2 lbs./ weeks with 10x stronger medication than semaglutide for results in half the time, focusing on losing more fat than lean muscle or water weight.",
-          "planPrice": "$699 / mo",
+          "planText": "Average expected weight loss is 2 lbs./ weeks with 10x stronger medication than GLP-S for results in half the time, focusing on losing more fat than lean muscle or water weight.",
+          "planPrice": "$399 / mo",
           "listItems": [
-            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
+            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
             "Premium Compound with B12 & Glycine for Energy & Muscle Preservation",
             "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
             "Weekly Fit3D Personalized Body Composition Data",
@@ -249,17 +249,13 @@
           "bookingLink": "https://www.vagaro.com/cl/-c0uG8gCOVVzBBMasHrFMOtMooHrErYHxbj3OYQtttw="
         },
         {
-          "planName": "Stacked Plan - Appetite Control",
-          "planText": "Average weight loss is 1.5 lbs. per week consistently focusing on energy & appetite control.",
+          "planName": "Phentermine Plan",
+          "planText": "Phentermine is a prescribed medication designed to suppress appetite, aiding in weight loss by either reducing hunger pangs or prolonging feelings of fullness.",
           "planPrice": "$99 / mo",
           "listItems": [
-            "4 Weekly treatments, In-Office Service or Self-Injected At Home",
-            "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
-            "Weekly Fit3D Personalized Body Composition Data",
-            "Custom Meal Plan & Grocery Shopping Lists",
-            "Custom Workout & Fitness Plan",
-            "Weekly Consultation and Coaching for Weight Loss",
-            "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
+            "Appetite Suppression: Phentermine aids in managing hunger and diminishing appetite, facilitating adherence to a low-calorie diet.",
+            "Enhanced Energy Levels: Phentermine has the potential to elevate your energy, thereby enhancing motivation and commitment to a workout regimen.",
+            "Effectiveness in Weight Loss: Clinical research has demonstrated that phentermine can significantly aid in weight loss, with users losing an average of 3% of their initial body weight within the first three months, and between 5-7% after six months."
           ],
           "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
           "getStarted": "Get Started - I'm Ready!",
@@ -294,34 +290,34 @@
       "text": "Discover a world of exclusive benefits and reach your health goals by choosing from our diverse range of membership options. Whether you're looking for personalized training or access to premium facilities, our memberships are designed to cater to your unique needs and aspirations."
     },
     "plans": {
-      "standard": {
-        "title": "The Standard Plan",
-        "text": "<p>Embark on a transformative journey toward a healthier you, ridding your body of unwanted toxins and fat. Our holistic program is tailored for your triumph, ensuring an optimized journey that reduces barriers and avoids stagnation.</p><p><strong>Benefits:</strong><ul><li>Free monthly consultations and coaching available for weight loss with Semaglutide.</li><li>Indulge in a 15-minute session once a week in a FAR Infrared + Chromotherapy Sitting Sauna for a rejuvenating experience.</li><li>Get tailored body composition insights four times monthly.</li><li>Receive four B12 add-ons monthly with every treatment, and relish a 10% discount on spa services, products, and the Glucoferrin Supplement.</li></ul></p>",
+      "glps": {
+        "title": "The GLP-S Plan",
+        "text": "<p>Embark on a transformative journey toward a healthier you, ridding your body of unwanted toxins and fat. Our holistic program is tailored for your triumph, ensuring an optimized journey that reduces barriers and avoids stagnation.</p><p><strong>Benefits:</strong><ul><li>Free monthly consultations and coaching available for weight loss.</li><li>Indulge in a 15-minute session once a week in a FAR Infrared + Chromotherapy Sitting Sauna for a rejuvenating experience.</li><li>Get tailored body composition insights four times monthly.</li><li>Receive four B12 add-ons monthly with every injection, and relish a 10% discount on spa services, products, and the Glucoferrin Supplement.</li></ul></p>",
         "button": "$299 Monthly"
       },
       "premium": {
-        "title": "The Premium Plan",
-        "text": "<p>The Tirzepatide Plan offers a holistic approach to weight loss, tailored to help you reach your objectives. It combines customized meal plans, targeted exercise routines, and continuous support, guiding you toward a healthier way of living.</p><p><strong>Benefits:</strong><ul><li>Tailored meal plans and exercise routines to fit your unique needs and preferences.</li><li>Complimentary monthly consultation and coaching available for Trizepatide weight loss program.</li><li>Indulge in a 15-minute session four times a month in a FAR Infrared + Chromotherapy Sitting Sauna experience.</li><li>Get customized body composition updates four times per month.</li><li>Get tailored body composition updates delivered to you four times monthly.</li></ul></p>",
+        "title": "Discover the Benefits of the Premium Plan",
+        "text": "<p>The Premium Plan offers a holistic approach to weight loss, tailored to help you reach your objectives. It combines customized meal plans, targeted exercise routines, and continuous support, guiding you toward a healthier way of living.</p><p><strong>Benefits:</strong><ul><li>Tailored meal plans and exercise routines to fit your unique needs and preferences.</li><li>Complimentary monthly consultation and coaching available for Trizepatide weight loss program.</li><li>Indulge in a 15-minute session four times a month in a FAR Infrared + Chromotherapy Sitting Sauna experience.</li><li>Get customized body composition updates four times per month.</li><li>Get tailored body composition updates delivered to you four times monthly.</li></ul></p>",
         "button": "$499 Monthly"
       },
       "bella": {
         "title": "Custom Bella Weight Loss Plan: Tailored for You",
-        "text": "<p>Our Custom Bella Weight Loss Plan is designed to meet your individual needs and help you achieve your weight loss goals. With a personalized approach, we provide you with the tools, support, and guidance you need to succeed.",
+        "text": "<p>Our Custom Bella Weight Loss Plan is designed to meet your individual needs and help you achieve your weight loss goals. With a personalized approach, we provide you with the tools, support, and guidance you need to succeed.</p><p><ul><li>Contains: Bupropion, Phentermine, Topiramate, Naltrexone, and Slow Release Methylcobalamin Capsules</li><li>Bella Plus Contains: Bupropion, Caffeine, Metformin, Oxytocin, Topiramate, Naltreone, Methylcobalmin Capsules</li><li>Bella Plus Defact includes the following active ingredients: Bupropion, Metformin, Oxytocin, Topiramate, Naltrexone, and Methylcobalamin in capsule form.</li><li>Lip Burn Capsules feature an optimized blend of active ingredients, including Caffeine, Phentermine, Naltrexone, and Methylcobalamin, in a slow-release formulation.</li></ul></p>",
         "button": "$349 Monthly"
       },
-      "stacked": {
-        "title": "The Stacked Plan",
-        "text": "<p>Discover the benefits of our stacked plan, a comprehensive weight management program designed to help you achieve your goals. This plan includes personalized guidance, nutritional support, and ongoing monitoring to ensure your success",
+      "phentermine": {
+        "title": "Exploring the Phentermine Plan for Weight Management",
+        "text": "<p>Discover the benefits of our Phentermine Plan, a comprehensive weight management program designed to help you achieve your goals. This plan includes personalized guidance, nutritional support, and ongoing monitoring to ensure your success.</p><p><ul><li>Appetite Control: Phentermine helps manage hunger and reduce appetite, making it easier to stick to a low-calorie diet.</li><li>Increased Energy Levels: Phentermine can boost your energy, enhancing motivation and dedication to your workout routine.</li><li>Weight Loss Effectiveness: Clinical studies have shown that phentermine can greatly assist in weight reduction. Users typically shed around 3% of their initial body weight in the initial three months, and achieve a 5-7% loss by the six-month mark.</li></ul></p>",
         "button": "$99 Monthly"
       },
-      "doubleTime": {
-        "title": "The Double Time Plan",
-        "text": "<p>The double time Plan is a comprehensive weight loss program designed to help you achieve your goals. With personalized guidance and support, you'll experience sustainable results.",
+      "rybelsus": {
+        "title": "Discover the Benefits of the Rybelsus Plan for Effective Weight Loss",
+        "text": "<p>The Rybelsus Plan is a comprehensive weight loss program designed to help you achieve your goals. With personalized guidance and support, you'll experience sustainable results.</p><p><ul><li>Blood Sugar Management: Rybelsus effectively regulates blood sugar levels in adults suffering from type 2 diabetes by enhancing insulin secretion and reducing glucagon release.</li><li>Weight Loss Potential: Rybelsus has demonstrated effectiveness in promoting weight loss in type 2 diabetes patients, primarily through reducing appetite and decelerating gastric emptying.</li><li>Cardiovascular Advantages: Clinical studies have demonstrated that Rybelsus significantly contributes to heart health protection for individuals with type 2 diabetes. This is particularly crucial, considering their increased risk of developing heart disease.</li><li>Easy Oral Intake: Rybelsus stands out as the sole GLP-1 receptor agonist available as a once-daily oral tablet, eliminating the need for injections.</li></ul></p>",
         "button": "$2999 Monthly"
       },
       "vip": {
-        "title": "Unlock VIP Benefits with a personalized Membership",
-        "text": "<p>Experience the ultimate weight loss journey with our VIP Monthly Membership that includes personalized treatments, a powerful weight loss medication. Enjoy exclusive perks, personalized support, and achieve your weight loss goals faster.",
+        "title": "Unlock VIP Benefits with GLP-S Membership",
+        "text": "<p>Experience the ultimate weight loss journey with our VIP Monthly Membership that includes a powerful weight loss medication. Enjoy exclusive perks, personalized support, and achieve your weight loss goals faster.</p><p><ul><li>Receive a weekly weight loss session (total of 4 sessions monthly) including a complimentary consultation and coaching.</li><li>GLP-S Basic Monthly Membership: Receive 1 pre-filled injection per week (total of 4 per month) for your prescribed dose, ranging from 0.25mg to 2.5mg. Enjoy a flat monthly fee without any additional charges as your dosage increases.</li><li>1 Session Per Week (Total of 4 Sessions) - Hydration & Weight Loss Flush IV Therapy</li><li>Twice weekly, engage in a comprehensive wellness session that includes an 8-session package of Full Spectrum Infrared Bed therapy, complemented by Chromotherapy and Magnet Therapy, each lasting 25 minutes.</li><li>1 Ionic Foot Detox Session per Month (50 Minutes) for One Person</li><li>myGrace Customized Fitness Plan and Tracker App, plus a complimentary bottle of Glucoferrin, along with 10% off Glucoferrin Supplement and 10% discount on spa services.</li><li>Each injection includes a quantity of 4 personalized 3DFit Body Composition Data and 4 B12 Add-Ons, plus an additional 4 Glycine Muscle Preservation Add-Ons for enhanced benefits.</li></ul></p>",
         "button": "$945+ Monthly"
       }
     }
@@ -330,6 +326,11 @@
     "hero": {
       "title": "Prescription and Non-Prescription Weight Management",
       "text": "We use a unique approach that merges personalized data with healing and therapeutic services, designed to assist your body in eliminating the need for excess fat through a cellular detox process. This method not only helps in shedding unwanted fat but also ensures that your body becomes less inclined to accumulate it again in the future. By focusing on the root cause of fat accumulation, our program aims to provide a long-term solution to weight management, ensuring a healthier and more balanced body."
+    },
+    "glp1": {
+      "title": "Injectable Weight Loss Solutions Featuring GLP-1 and Ozempic for Prescription-Based Weight Management",
+      "text": "<p>Our weight loss programs offer personalized strategies, incorporating the latest methodologies and professional advice to ensure you reach your goals. We provide both natural solutions and advanced prescription medication options.</p><p>We cater to your needs, wherever you are—be it your office, your home, or through virtual telehealth and mail delivery services.</p>",
+      "button": "Telehealth Physician Visit"
     },
     "newWave": {
       "subtitle": "Natural Weight Loss Alternative",
@@ -357,7 +358,7 @@
       "items": [
         {
           "header": "Weight Loss Prescriptions",
-          "body": "Our prescription weight loss programs are overseen by experienced medical professionals and utilize medications such as Semaglutide, Tirzepatide, and Phentermine to support your weight loss journey.",
+          "body": "Our prescription weight loss programs are overseen by experienced medical professionals and utilize medications to support your weight loss journey.",
           "imageURI": "dr85cqwlh/image/upload/v1725812984/weight-loss-gallery-1_tb3j5x.png"
         },
         {
@@ -376,6 +377,25 @@
           "imageURI": "dr85cqwlh/image/upload/v1725812984/weight-loss-gallery-4_uciehv.png"
         }
       ]
+    },
+    "faq": {
+      "header": "FAQs",
+      "description": "Find answers to commonly asked questions about our Weight Loss Programs.",
+      "questions": [
+        {
+          "header": "What are the programs?",
+          "body": "Our weight loss programs include personalized plans tailored to your specific needs. We offer both prescription weight loss programs and natural weight loss programs, depending on your preferences and goals. Our team of experts will work closely with you to develop a program that suits your lifestyle and helps you achieve your desired results."
+        },
+        {
+          "header": "Is phentermine effective in promoting weight loss?",
+          "body": "Indeed, Phentermine has received FDA approval as a weight loss aid, indicating it has undergone rigorous clinical trials to prove its safety and efficacy for weight reduction. Its effectiveness is significantly enhanced when paired with consistent exercise and a reduced-calorie diet."
+        },
+        {
+          "header": "How much weight will you lose while taking phentermine?",
+          "body": "<p>The amount of weight loss you experience with phentermine significantly hinges on two key factors: the amount of excess weight you carry and your ability to modify your eating and exercise patterns during its use.<br><br>Phentermine activates the sympathetic nervous system, known as a \"sympathomimetic\" or stimulant medication, enhancing bodily functions. By reducing appetite, it aids in calorie intake reduction, creating an energy deficit for weight loss.</p>"
+        }
+      ]
+    }
   },
   "ivTherapy": {
     "hero": {
@@ -1028,7 +1048,7 @@
           "imageURI": "dr85cqwlh/image/upload/v1727031112/lab-testing-gallery2-1_iyuzwe.png"
         },
         {
-          "header": "Semaglutide Panel",
+          "header": "GLP-S Panel",
           "body": "A weight loss panel consists of blood tests that measure biomarkers related to the metabolic and hormonal factors that impact your metabolism and weight. Metabolism is the way your body processes food and drink into energy that affect weight and fat storage. This panel includes; CBC, Comprehensive Metabolic Panel, Lipid Panel, TSH, T3 Free, T4 Total, Vitamin B12, Fasting Insulin, Hemoglobin A1C.",
           "price": "$170",
           "button": "Book Now",
@@ -1440,16 +1460,16 @@
       "otherOptionsLink": "/weight-loss",
       "items": [
         {
-          "title": "SEMAGLUTIDE WEIGHT LOSS MONTHLY MEMBERSHIP",
-          "content": "Our Semaglutide Weight Loss Monthly Membership offers a powerful, science-backed solution to support your weight loss journey with weekly semaglutide injections, a naturally occurring peptide that regulates insulin levels for cellular detoxification and fat loss. For a flat rate of $299 per month, you’ll receive personalized doses ranging from 0.25mg to 2.5mg, tailored to your individual needs. This comprehensive program includes access to a custom app featuring diet and nutrition plans, grocery lists, custom workouts, plus memberships to Fit3D body composition scans and weekly FAR Infrared detox sessions. With medical supervision and holistic support, this membership ensures steady, sustainable weight loss and improved overall wellness.",
-          "planInfo": "Weekly Semaglutide Weight Loss Injections (Peptide) -- $299 / Month with minimum 3 Month Membership + Prescription",
+          "title": "GLP-S WEIGHT LOSS MONTHLY MEMBERSHIP",
+          "content": "Our Standard Weight Loss Monthly Membership offers a powerful, science-backed solution to support your weight loss journey with weekly injections, a naturally occurring peptide that regulates insulin levels for cellular detoxification and fat loss. For a flat rate of $299 per month, you’ll receive personalized doses ranging from 0.25mg to 2.5mg, tailored to your individual needs. This comprehensive program includes access to a custom app featuring diet and nutrition plans, grocery lists, custom workouts, plus memberships to Fit3D body composition scans and weekly FAR Infrared detox sessions. With medical supervision and holistic support, this membership ensures steady, sustainable weight loss and improved overall wellness.",
+          "planInfo": "Weekly GLP-S Weight Loss Injections (Peptide) -- $299 / Month with minimum 3 Month Membership + Prescription",
           "button": "Book Now",
           "buttonUrl": "https://www.vagaro.com/cl/k3Pw2WieAxWBATfedCZ-TeSja7nljf1CrrtVc9qyANE="
         },
         {
-          "title": "TIRZEPATIDE WEIGHT LOSS MONTHLY MEMBERSHIP",
-          "content": "Our Tirzepatide Weight Loss Monthly Membership offers a game-changing solution for those looking to lose over 50 pounds, providing a medication that's 10 times more potent than semaglutide, yet for less than double the price. Premium Tirzepatide compounded with Glycine for Muscle Preservation is a next-generation dual-action medication. It not only regulates insulin like semaglutide but also targets multiple pathways in the body for enhanced fat loss and metabolism. For just $499 per month, you’ll receive weekly personalized doses tailored to your needs, significantly accelerating weight loss results. This program includes access to a custom app with diet and nutrition plans, grocery lists, custom workouts, Fit3D body composition scans, and weekly Full Spectrum Infrared detox sessions. With holistic support and expert medical supervision, our Tirzepatide membership delivers faster, more powerful weight loss, making it the ideal solution for those seeking dramatic results.",
-          "planInfo": "Weekly Tirzepatide Weight Loss Injections (Peptide) -- PROMO $499 / Month with minimum 3 Month Membership + Prescription for first 3 months, ($749 / Month Regularly)",
+          "title": "PREMIUM WEIGHT LOSS MONTHLY MEMBERSHIP",
+          "content": "Our Premium Weight Loss Monthly Membership offers a game-changing solution for those looking to lose over 50 pounds, providing a medication that's 10 times more potent, yet for less than double the price. It not only regulates insulin, but also targets multiple pathways in the body for enhanced fat loss and metabolism. For just $399 per month, you’ll receive weekly personalized doses tailored to your needs, significantly accelerating weight loss results. This program includes access to a custom app with diet and nutrition plans, grocery lists, custom workouts, Fit3D body composition scans, and weekly Full Spectrum Infrared detox sessions. With holistic support and expert medical supervision, our premium membership delivers faster, more powerful weight loss, making it the ideal solution for those seeking dramatic results.",
+          "planInfo": "Weekly Premium Weight Loss Injections (Peptide) -- PROMO $399 / Month with minimum 3 Month Membership + Prescription for first 3 months, ($749 / Month Regularly)",
           "button": "Book Now",
           "buttonUrl": "https://www.vagaro.com/cl/NrsMyhe4ZGuKWMPmtauzVhA99dAPW1P3TpeMcT9TD3w="
         }
@@ -1495,5 +1515,4 @@
     "submit": "Submit",
     "call": "Call"
   }
-}
 }
